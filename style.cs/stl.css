@@ -1,0 +1,57 @@
+.parent {
+    height: 100vh;
+    display: flex;
+    background-image: url("../imgss/High_resolution_wallpaper_background_ID_77700172116.jpg");
+    background-size: cover;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.talk {
+    font-family: cursive;
+    position: absolute;
+    top: 3%;
+    color: white;
+    text-decoration: line-through;
+    font-size: 60px;
+}
+
+
+.logo {
+    width: 150px;
+    height: 150px;
+    border: 0;
+    position: absolute;
+    top: 6%;
+    left: 8%;
+}
+
+.logo2 {
+    width: 150px;
+    height: 150px;
+    border: 0;
+    position: absolute;
+    right: 8%;
+    top: 6%;
+}
+
+h4 {
+    font-family: cursive;
+    top: 55%;
+    position: absolute;
+    color: white;
+    text-decoration: line-through;
+    font-size: 80px;
+}
+
+.mmm {
+    position: absolute;
+    width: 180px;
+    height: 84px;
+}
